@@ -1,3 +1,7 @@
+/*
+   Hangry Angler - Colleen Carroll @colleeninboots
+*/
+
 const int INPUT_PIN = A0;
 const int LURE_RED_PIN = 9;
 const int LURE_GREEN_PIN = 10;
